@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+header {
+    background: #823038;
+}
+
+#name {
+    color: rgba(243, 243, 243, 1);
+}
+
+body {
+    background: #2a2d34;
+    color: rgba(243, 243, 243, 1);
+}
+
+h2 {
+    color: #823038;
+}
+
+h3 {
+    color: rgba(188, 95, 4, 1);
+}
+ a {
+     color: rgba(252, 186, 4, 1);
+ }
+
+ #heading {
+     padding-left: 50;
+ }
+
+.heading-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
